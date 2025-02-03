@@ -1,2 +1,3 @@
-# wine_quality_prediction_deployment
-Wine Quality Model prediction 
+# Wine Quality Prediction Model
+
+This project predicts wine quality (0-10) using physicochemical features like acidity, pH, and alcohol content. Built with Python, it employs a Random Forest Regressor trained on the Wine Quality Dataset. Key steps include data preprocessing, model training, and evaluation using metrics like MAE and R². To use, clone the repo, install dependencies, and run `train.py` or `predict.py`. Contributions are welcome! Licensed under MIT. Dataset sourced from UCI Machine Learning Repository. Perfect for wine enthusiasts and data scientists exploring regression models. Cheers! 🍷
